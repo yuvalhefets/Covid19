@@ -32,7 +32,7 @@ made in the following syntax (from the browser or cmd):
   {"country": country, "value": requests number, "date": current date,
    "method": requested method}
    
-#Design Choices
+# Design Choices
 - json file
   I chose to save all current date's data in a json file (where the countries are
   the entries) because I figured it would be more efficiant to have to handle
